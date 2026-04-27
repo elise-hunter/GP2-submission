@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Uni\\GP2-coursework\\GP2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|E:\\Uni\\GP2-coursework\\GP2\\Lab1\\stb_image.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\stb_image.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Spawn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\Spawn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Save.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\Save.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Mesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\Mesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|E:\\Uni\\GP2-coursework\\GP2\\Lab1\\MainGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\MainGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\Constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Display.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\Display.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|E:\\Uni\\GP2-coursework\\GP2\\Lab1\\MainGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\MainGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\Mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|E:\\Uni\\GP2-coursework\\GP2\\Lab1\\stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|E:\\Uni\\GP2-coursework\\GP2\\Lab1\\stb_truetype.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\stb_truetype.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\Texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|E:\\Uni\\GP2-coursework\\GP2\\Lab1\\transform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\transform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Uni\\GP2-coursework\\GP2\\Lab1\\SDL_mixer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab1\\SDL_mixer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|E:\\Uni\\GP2-coursework\\GP2\\Lab1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Display.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D246FDDF-B30E-4F14-80F8-095FA4E04ECF}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\Display.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Renderer.cpp",
+              "DocumentMoniker": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Renderer.cpp",
+              "RelativeDocumentMoniker": "Lab1\\Renderer.cpp",
+              "ToolTip": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Renderer.cpp",
+              "RelativeToolTip": "Lab1\\Renderer.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-27T02:08:48.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Spawn.cpp",
+              "DocumentMoniker": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Spawn.cpp",
+              "RelativeDocumentMoniker": "Lab1\\Spawn.cpp",
+              "ToolTip": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Spawn.cpp",
+              "RelativeToolTip": "Lab1\\Spawn.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-25T01:08:47.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Constants.h",
+              "DocumentMoniker": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Constants.h",
+              "RelativeDocumentMoniker": "Lab1\\Constants.h",
+              "ToolTip": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Constants.h",
+              "RelativeToolTip": "Lab1\\Constants.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-25T01:07:46.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Texture.cpp",
+              "DocumentMoniker": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Texture.cpp",
+              "RelativeDocumentMoniker": "Lab1\\Texture.cpp",
+              "ToolTip": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Texture.cpp",
+              "RelativeToolTip": "Lab1\\Texture.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-24T00:21:49.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SDL_mixer.h",
+              "DocumentMoniker": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\SDL_mixer.h",
+              "RelativeDocumentMoniker": "Lab1\\SDL_mixer.h",
+              "ToolTip": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\SDL_mixer.h",
+              "RelativeToolTip": "Lab1\\SDL_mixer.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-24T01:52:42.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mesh.cpp",
+              "DocumentMoniker": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Mesh.cpp",
+              "RelativeDocumentMoniker": "Lab1\\Mesh.cpp",
+              "ToolTip": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Mesh.cpp",
+              "RelativeToolTip": "Lab1\\Mesh.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-24T00:21:46.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainGame.cpp",
+              "DocumentMoniker": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\MainGame.cpp",
+              "RelativeDocumentMoniker": "Lab1\\MainGame.cpp",
+              "ToolTip": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\MainGame.cpp",
+              "RelativeToolTip": "Lab1\\MainGame.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-24T00:21:45.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Display.cpp",
+              "DocumentMoniker": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Display.cpp",
+              "RelativeDocumentMoniker": "Lab1\\Display.cpp",
+              "ToolTip": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Display.cpp",
+              "RelativeToolTip": "Lab1\\Display.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-24T00:21:43.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "transform.h",
+              "DocumentMoniker": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\transform.h",
+              "RelativeDocumentMoniker": "Lab1\\transform.h",
+              "ToolTip": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\transform.h",
+              "RelativeToolTip": "Lab1\\transform.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-24T00:21:42.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Shader.h",
+              "DocumentMoniker": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Shader.h",
+              "RelativeDocumentMoniker": "Lab1\\Shader.h",
+              "ToolTip": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Shader.h",
+              "RelativeToolTip": "Lab1\\Shader.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-24T00:21:40.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\main.cpp",
+              "RelativeDocumentMoniker": "Lab1\\main.cpp",
+              "ToolTip": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\main.cpp",
+              "RelativeToolTip": "Lab1\\main.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvwsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-24T00:21:45.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shader.cpp",
+              "DocumentMoniker": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Shader.cpp",
+              "RelativeDocumentMoniker": "Lab1\\Shader.cpp",
+              "ToolTip": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Shader.cpp",
+              "RelativeToolTip": "Lab1\\Shader.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-24T00:21:47.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stb_image.c",
+              "DocumentMoniker": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\stb_image.c",
+              "RelativeDocumentMoniker": "Lab1\\stb_image.c",
+              "ToolTip": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\stb_image.c",
+              "RelativeToolTip": "Lab1\\stb_image.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-24T00:21:48.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Texture.h",
+              "DocumentMoniker": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Texture.h",
+              "RelativeDocumentMoniker": "Lab1\\Texture.h",
+              "ToolTip": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Texture.h",
+              "RelativeToolTip": "Lab1\\Texture.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-24T00:21:42.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "stb_truetype.h",
+              "DocumentMoniker": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\stb_truetype.h",
+              "RelativeDocumentMoniker": "Lab1\\stb_truetype.h",
+              "ToolTip": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\stb_truetype.h",
+              "RelativeToolTip": "Lab1\\stb_truetype.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-24T00:21:41.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "stb_image.h",
+              "DocumentMoniker": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\stb_image.h",
+              "RelativeDocumentMoniker": "Lab1\\stb_image.h",
+              "ToolTip": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\stb_image.h",
+              "RelativeToolTip": "Lab1\\stb_image.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-24T00:21:40.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Mesh.h",
+              "DocumentMoniker": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Mesh.h",
+              "RelativeDocumentMoniker": "Lab1\\Mesh.h",
+              "ToolTip": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Mesh.h",
+              "RelativeToolTip": "Lab1\\Mesh.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-24T00:21:38.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainGame.h",
+              "DocumentMoniker": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\MainGame.h",
+              "RelativeDocumentMoniker": "Lab1\\MainGame.h",
+              "ToolTip": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\MainGame.h",
+              "RelativeToolTip": "Lab1\\MainGame.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-24T00:21:38.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Save.cpp",
+              "DocumentMoniker": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Save.cpp",
+              "RelativeDocumentMoniker": "Lab1\\Save.cpp",
+              "ToolTip": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Save.cpp",
+              "RelativeToolTip": "Lab1\\Save.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-25T01:09:00.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Display.h",
+              "DocumentMoniker": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Display.h",
+              "RelativeDocumentMoniker": "Lab1\\Display.h",
+              "ToolTip": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Display.h",
+              "RelativeToolTip": "Lab1\\Display.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-24T00:21:37.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Camera.h",
+              "DocumentMoniker": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Camera.h",
+              "RelativeDocumentMoniker": "Lab1\\Camera.h",
+              "ToolTip": "E:\\Uni\\GP2-coursework\\GP2\\Lab1\\Camera.h",
+              "RelativeToolTip": "Lab1\\Camera.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-24T00:21:36.494Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
