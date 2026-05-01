@@ -1,0 +1,28 @@
+Sources:
+
+https://learnopengl.com/Advanced-Lighting/Normal-Mapping
+https://www.opengl-tutorial.org/intermediate-tutorials/tutorial-13-normal-mapping/
+https://learnopengl.com/Getting-started/Camera
+https://www.songho.ca/opengl/gl_camera.html
+https://en.wikibooks.org/wiki/GLSL_Programming/Unity/Diffuse_Reflection_of_Skylight
+https://dev.to/shreyaspranav/how-to-render-truetype-fonts-in-opengl-using-stbtruetypeh-1p5k
+https://learnopengl.com/In-Practice/Text-Rendering
+https://www.opengl-tutorial.org/beginners-tutorials/tutorial-7-model-loading/
+https://lazyfoo.net/articles/article04/index.php
+https://lazyfoo.net/tutorials/SDL/21_sound_effects_and_music/index.php
+https://www.opengl-tutorial.org/intermediate-tutorials/billboards-particles/billboards/
+https://nehe.gamedev.net/tutorial/cool_looking_fog/19001/
+https://learnopengl.com/Advanced-OpenGL/Blending
+https://learnopengl.com/Advanced-OpenGL/Instancing
+https://learnopengl.com/getting-started/textures
+https://lazyfoo.net/tutorials/OpenGL/19_sprite_sheets/index.php
+https://www.youtube.com/watch?v=v5W04ybT0J0 (How to synthesize audio with C++ and SDL)
+https://lazyfoo.net/articles/article06/index.php
+https://learnopengl.com/In-Practice/2D-Game/Collisions/Collision-detection
+
+The above references are not in a particular order, just the order I had them bookmarked on my browser.
+
+Alongside these, I also had the aid of the following books which I own:
+
+'Beginning C++ Game Programming' by Michael Dawson
+'Game Programming Patterns' by Robert Nystrom
