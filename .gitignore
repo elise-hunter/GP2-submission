@@ -1,40 +1,60 @@
-# Prerequisites
-*.d
+# Local IDE settings, caches and Copilot indexes
+.vs/
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.ipch
+ipch/
 
-# Compiled Object files
+# Build output folders (Debug/Release, any platform)
+**/[Dd]ebug/*
+**/[Rr]elease/*
+x64/
+x86/
+Win32/
+
+# Keep the runtime DLLs that the game needs next to the .exe
+!**/[Dd]ebug/*.dll
+!**/[Rr]elease/*.dll
+
+# Build logs and intermediate files
+*.tlog
+*.lastbuildstate
+*.log
+*.idb
+*.pdb
+*.ilk
+*.recipe
+*.tmp
+*FileListAbsolute.txt
+
+# C++ build files
+*.d
+*.o
 *.slo
 *.lo
-*.o
-
-# Precompiled Headers
 *.gch
 *.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
+*.dwo
 *.so
 *.dylib
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
 *.a
+*.la
+*.lai
 
 # Executables
 *.exe
 *.out
 *.app
 
-# debug information files
-*.dwo
+# Game save files (made when the game runs)
+GP2/Lab1/highscore.txt
+GP2/Lab1/stats.txt
 
-*.ipch
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
